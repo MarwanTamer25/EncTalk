@@ -1,6 +1,8 @@
 # EncTalk
 Where Your Words Stay Secret and Secure.
 
+![logo](logo.png)
+
 ## Abstract
 
 In today's digital era, secure communication channels are paramount for ensuring privacy and confidentiality. This project presents a real-time chat application implemented using Python and the PyQt5 framework, allowing users to exchange text and audio messages securely over the network. The application employs end-to-end encryption based on AES-CFB mode to protect the confidentiality of messages. Additionally, user authentication and password management functionalities are integrated to ensure secure access to the platform. The project utilizes advanced cryptographic techniques and modern networking protocols to provide a seamless and secure communication experience.
